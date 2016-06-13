@@ -1,0 +1,37 @@
+12:48:02 **** Auto Build of configuration Debug for project knn ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../knn_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+In file included from ../src/helloworld.c:52:0:
+../../knn_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../knn_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+In file included from ../../knn_bsp/ps7_cortexa9_0/include/xscutimer.h:111:0,
+                 from ../src/helloworld.c:58:
+../src/helloworld.c: In function 'main':
+../../knn_bsp/ps7_cortexa9_0/include/xscutimer.h:218:33: error: invalid type argument of '->' (have 'XScuTimer')
+  XScuTimer_ReadReg((InstancePtr)->Config.BaseAddr,  \
+                                 ^
+../../knn_bsp/ps7_cortexa9_0/include/xscutimer_hw.h:255:12: note: in definition of macro 'XScuTimer_ReadReg'
+  Xil_In32((BaseAddr) + (RegOffset))
+            ^
+../src/helloworld.c:118:38: note: in expansion of macro 'XScuTimer_GetCounterValue'
+   xil_printf("Hardware count = %d\n",XScuTimer_GetCounterValue(substitute_tick_timer));
+                                      ^
+../../knn_bsp/ps7_cortexa9_0/include/xscutimer.h:218:33: error: invalid type argument of '->' (have 'XScuTimer')
+  XScuTimer_ReadReg((InstancePtr)->Config.BaseAddr,  \
+                                 ^
+../../knn_bsp/ps7_cortexa9_0/include/xscutimer_hw.h:255:12: note: in definition of macro 'XScuTimer_ReadReg'
+  Xil_In32((BaseAddr) + (RegOffset))
+            ^
+../src/helloworld.c:134:38: note: in expansion of macro 'XScuTimer_GetCounterValue'
+   xil_printf("Software count = %d\n",XScuTimer_GetCounterValue(substitute_tick_timer));
+                                      ^
+make: *** [src/helloworld.o] Error 1
+
+12:48:02 Build Finished (took 712ms)
+

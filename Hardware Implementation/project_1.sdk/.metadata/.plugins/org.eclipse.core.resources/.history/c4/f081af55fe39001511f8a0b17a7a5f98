@@ -1,0 +1,62 @@
+#include <stdio.h>
+#include "distip.h"
+#include <unistd.h>
+#include <stdint.h>
+#include <xbasic_types.h>
+#include "platform.h"
+#include "xparameters.h"  // Zynq parameters
+#include "xgpiops.h"      // Zynq GPIO operations
+#include <math.h>
+#include <time.h>
+#include <stdlib.h>
+#include "platform.h"
+#include "ff.h"   /* Declarations of FatFs API */
+
+FATFS FatFs;    /* FatFs work area needed for each volume */
+FRESULT fr;     /* FatFs function common result code */
+FIL fsrc11;     /* File object needed for source file */
+FIL fdst;     /* File object needed for destination file */
+XGpioPs Gpio;
+int main(void)
+{
+	  int retval;     /* Return value for Gpio functions */
+	  init_platform();
+
+	  // Lookup GPIO config table
+	  XGpioPs_Config * ConfigPtr = XGpioPs_LookupConfig(XPAR_PS7_GPIO_0_DEVICE_ID);
+
+	  // Initialize GPIO
+	    if ( (retval = XGpioPs_CfgInitialize(&Gpio, ConfigPtr, ConfigPtr->BaseAddr)) != XST_SUCCESS) {
+	      printf("Error initializing GPIO fails\n"); return retval;}
+	  if ( (retval = XGpioPs_SelfTest(&Gpio)) != XST_SUCCESS) {
+	    printf("GPIO Self test fails\n"); return 1; }
+
+	  /*
+	   *  Write files to SDC using FatFs SPI protocol
+	   */
+
+	 f_mount(0,&FatFs);    /* Give a work area to the default drive */
+
+
+    FILE *myFile;
+    if (f_open(&fsrc11, "somenumbers.txt", FA_READ | FA_OPEN_EXISTING ) == FR_OK) {
+    myFile = fopen("somenumbers.txt", "r");
+
+    //read file into array
+    int numberArray[16];
+    int i;
+
+    for (i = 0; i < 16; i++)
+    {
+        fscanf(myFile, "%1d", &numberArray[i]);
+    }
+
+    for (i = 0; i < 16; i++)
+    {
+        printf("Number is: %d\n\n", numberArray[i]);
+    }
+    f_close(&fsrc11);
+        f_close(&fdst);
+    }
+    exit(1);
+}

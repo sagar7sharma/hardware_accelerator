@@ -1,0 +1,1382 @@
+13:27:44 INFO  : Processing command line option -hwspec C:/Users/USER/project_1/project_1.sdk/design_1_wrapper.hdf.
+13:27:52 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+13:29:19 ERROR :  [Hsi 55-1593] Current Hardware Design is not set.
+13:29:21 ERROR :  [Hsi 55-1593] Current Hardware Design is not set.
+13:51:15 INFO  : Refreshed build settings on project Test
+15:40:25 INFO  : Processing command line option -hwspec C:/Users/USER/project_1/project_1.sdk/design_1_wrapper.hdf.
+15:40:29 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+15:40:29 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+18:17:52 INFO  : No changes in MSS file content so not generating sources.
+18:33:39 INFO  : No changes in MSS file content so not generating sources.
+23:27:54 INFO  : Processing command line option -hwspec C:/Users/USER/project_1/project_1.sdk/design_1_wrapper.hdf.
+23:28:03 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+23:28:04 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+23:29:52 ERROR :  License Feature SDK is not available.
+23:52:57 INFO  : Processing command line option -hwspec C:/Users/USER/project_1/project_1.sdk/design_1_wrapper.hdf.
+23:52:59 WARN  : Unable to obtain port 2450 for use by XSDB Server, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+23:53:00 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2457
+23:53:02 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+23:53:46 ERROR :  License Feature SDK is not available.
+23:58:57 INFO  : Processing command line option -hwspec C:/Users/USER/project_1/project_1.sdk/design_1_wrapper.hdf.
+23:58:59 WARN  : Unable to obtain port 2450 for use by XSDB Server, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+23:58:59 WARN  : Unable to obtain port 2457 for use by XSDB Server, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+23:59:00 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2464
+23:59:01 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+23:59:46 ERROR :  License Feature SDK is not available.
+12:17:47 INFO  : Processing command line option -hwspec C:/Users/USER/project_1/project_1.sdk/design_1_wrapper.hdf.
+12:17:52 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+12:17:53 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+15:44:33 INFO  : Processing command line option -hwspec C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper.hdf.
+15:44:35 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+15:50:43 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+15:51:12 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+15:51:12 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+15:51:12 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+15:54:36 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+15:54:36 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+15:54:36 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+15:54:36 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+15:59:42 INFO  : ps7_init is completed.
+15:59:42 INFO  : ps7_post_config is completed.
+15:59:42 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:59:55 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:05:13 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:09:01 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+16:09:10 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:09:15 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:09:30 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:09:43 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:09:53 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Target selection failed.
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.debugApplication(XilinxAppLaunchConfigurationDelegate.java:774)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:295)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+16:10:20 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Error in Resetting Target
+
+    Could not stop the processor after reset
+
+
+	at com.xilinx.sdk.targetmanager.internal.TM.doProcessorReset(TM.java:991)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:502)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:584)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:293)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+16:10:42 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+16:10:52 INFO  : ps7_init is completed.
+16:10:52 INFO  : ps7_post_config is completed.
+16:10:52 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:10:59 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:51:37 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:51:47 INFO  : ps7_init is completed.
+17:51:47 INFO  : ps7_post_config is completed.
+17:51:47 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:51:54 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:54:39 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:54:44 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:54:50 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Error while running ps7_init method.
+Cannot Read from target
+
+
+    AP transaction timeout: ACK = 0x01, expected=0x02)
+
+	at com.xilinx.sdk.targetmanager.internal.TM.run_ps7_init(TM.java:1069)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:482)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:584)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:293)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+17:55:25 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:55:34 INFO  : ps7_init is completed.
+17:55:34 INFO  : ps7_post_config is completed.
+17:55:34 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:55:40 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:57:23 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+17:57:23 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+18:02:41 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:04:25 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:04:25 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:04:25 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:04:25 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:04:39 INFO  : ps7_init is completed.
+18:04:39 INFO  : ps7_post_config is completed.
+18:04:40 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:06:23 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:07:57 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:08:00 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:08:00 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:08:00 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:08:00 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:08:12 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:08:19 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Error while running ps7_init method.
+Cannot Read from target
+
+
+    AP transaction timeout: ACK = 0x01, expected=0x02)
+
+	at com.xilinx.sdk.targetmanager.internal.TM.run_ps7_init(TM.java:1069)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:482)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:584)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:293)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+18:08:38 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:08:51 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:08:51 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:08:51 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:08:51 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:09:47 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:09:47 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:09:47 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:09:47 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:10:04 INFO  : ps7_init is completed.
+18:10:04 INFO  : ps7_post_config is completed.
+18:10:04 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:11:04 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+18:11:12 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:11:28 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:11:28 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:11:28 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:11:28 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:11:50 INFO  : ps7_init is completed.
+18:11:50 INFO  : ps7_post_config is completed.
+18:11:50 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:12:34 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:14:55 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+18:14:55 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+18:15:27 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:15:29 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:15:29 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:15:29 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:15:29 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:15:39 INFO  : ps7_init is completed.
+18:15:39 INFO  : ps7_post_config is completed.
+18:15:40 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:15:49 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:19:08 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+18:19:08 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+18:19:31 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:19:33 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:19:33 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:19:33 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:19:33 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:19:42 INFO  : ps7_init is completed.
+18:19:43 INFO  : ps7_post_config is completed.
+18:19:43 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:19:53 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:20:35 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+18:20:35 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+18:21:14 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:26:07 INFO  : ps7_init is completed.
+18:26:07 INFO  : ps7_post_config is completed.
+18:26:07 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:26:17 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:27:44 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+18:27:44 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+18:27:54 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:29:33 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:30:01 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:31:20 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:31:20 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:31:20 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:31:20 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:31:51 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:31:51 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:31:51 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:31:51 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:33:12 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:33:12 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:33:12 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:33:12 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:33:37 INFO  : ps7_init is completed.
+18:33:37 INFO  : ps7_post_config is completed.
+18:33:37 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:33:59 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:34:03 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:34:06 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:35:47 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+18:35:47 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+18:35:56 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:36:05 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:36:05 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:36:05 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:36:05 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:36:19 INFO  : ps7_init is completed.
+18:36:19 INFO  : ps7_post_config is completed.
+18:36:19 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:37:07 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+18:37:20 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:37:26 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:37:26 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:37:26 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:37:26 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:37:40 INFO  : ps7_init is completed.
+18:37:40 INFO  : ps7_post_config is completed.
+18:37:40 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:40:14 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:40:24 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:40:24 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:40:24 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:40:24 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+18:40:38 INFO  : ps7_init is completed.
+18:40:38 INFO  : ps7_post_config is completed.
+18:40:38 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:45:51 ERROR : Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+18:45:51 ERROR : Unexpected error while launching program.
+com.xilinx.sdk.targetmanager.TMException: Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.isFPGAConfigured(TM.java:372)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.isFpgaConfigured(XilinxAppLaunchConfigurationDelegate.java:378)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:287)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+00:16:10 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+00:16:10 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+00:16:10 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+00:16:10 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+00:16:16 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+00:16:16 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+00:16:16 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+00:16:16 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+00:16:21 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+00:16:21 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+00:16:21 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+00:16:21 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+00:16:32 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+00:16:32 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+00:16:32 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+00:16:32 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+01:16:02 ERROR : Unexpected error while fetching XMD's response: 
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.read(Unknown Source)
+	at com.xilinx.sdk.targetmanager.internal.json.XMDJSONProcess$CommandResultsReader.run(XMDJSONProcess.java:332)
+	at java.lang.Thread.run(Unknown Source)
+01:16:02 ERROR : Zero sized response read from XMD. This indicates a communication error or a programming error.
+14:54:32 INFO  : Processing command line option -hwspec C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper.hdf.
+14:54:36 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+14:54:36 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_1.
+15:02:58 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+15:02:58 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+15:02:58 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+15:02:58 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+15:02:58 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+15:02:58 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+15:02:58 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+15:48:02 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+15:48:23 INFO  : ps7_init is completed.
+15:48:23 INFO  : ps7_post_config is completed.
+15:48:23 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:51:03 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+15:51:24 INFO  : ps7_init is completed.
+15:51:24 INFO  : ps7_post_config is completed.
+15:51:24 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:51:32 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:53:31 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+15:53:31 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+15:53:57 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+15:54:12 INFO  : ps7_init is completed.
+15:54:12 INFO  : ps7_post_config is completed.
+15:54:12 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:54:31 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:59:11 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+15:59:30 INFO  : ps7_init is completed.
+15:59:30 INFO  : ps7_post_config is completed.
+15:59:30 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:59:42 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:09:30 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+16:09:30 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+16:09:58 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+16:41:02 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+16:41:12 INFO  : ps7_init is completed.
+16:41:12 INFO  : ps7_post_config is completed.
+16:41:12 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:41:22 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:45:52 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+16:46:04 INFO  : ps7_init is completed.
+16:46:04 INFO  : ps7_post_config is completed.
+16:46:05 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:46:26 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:31:00 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:31:13 INFO  : ps7_init is completed.
+17:31:13 INFO  : ps7_post_config is completed.
+17:31:13 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:31:34 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:43:56 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:44:05 INFO  : ps7_init is completed.
+17:44:05 INFO  : ps7_post_config is completed.
+17:44:05 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:44:12 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:45:39 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:45:49 INFO  : ps7_init is completed.
+17:45:49 INFO  : ps7_post_config is completed.
+17:45:49 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:45:57 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:04:19 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+14:52:47 INFO  : Processing command line option -hwspec C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper.hdf.
+14:52:49 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_1.
+14:52:50 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+14:59:13 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+14:59:35 INFO  : ps7_init is completed.
+14:59:35 INFO  : ps7_post_config is completed.
+14:59:35 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:59:47 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:02:16 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+15:02:16 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+15:13:02 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+15:13:15 INFO  : ps7_init is completed.
+15:13:15 INFO  : ps7_post_config is completed.
+15:13:16 INFO  : Processor reset is completed for ps7_cortexa9_0
+00:09:33 ERROR : Unexpected error while fetching XMD's response: 
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.read(Unknown Source)
+	at com.xilinx.sdk.targetmanager.internal.json.XMDJSONProcess$CommandResultsReader.run(XMDJSONProcess.java:332)
+	at java.lang.Thread.run(Unknown Source)
+00:09:33 ERROR : Zero sized response read from XMD. This indicates a communication error or a programming error.
+15:05:58 INFO  : Processing command line option -hwspec C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper.hdf.
+15:06:02 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_1.
+15:06:02 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+15:46:22 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+15:46:22 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+15:46:22 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+19:43:58 INFO  : Processing command line option -hwspec C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper.hdf.
+19:44:03 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+19:44:03 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_1.
+22:17:58 INFO  : Processing command line option -hwspec C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper.hdf.
+22:18:00 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_1.
+22:18:00 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+15:16:19 INFO  : Processing command line option -hwspec C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper.hdf.
+15:16:23 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_1.
+15:16:23 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+12:15:13 INFO  : Processing command line option -hwspec C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper.hdf.
+12:15:14 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_1.
+12:15:15 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+12:15:18 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1437041077220,  Project:1433934612000
+12:15:18 INFO  : The hardware specification for project 'design_1_wrapper_hw_platform_1' is different from C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper.hdf.
+12:15:18 INFO  : Copied contents of C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper.hdf into \design_1_wrapper_hw_platform_1\system.hdf.
+12:15:19 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+12:15:19 INFO  : Clearing existing target manager status.
+12:15:22 INFO  : Workspace synchronized with the new hardware specification file. Cleaning dependent projects...
+13:02:51 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+13:02:51 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+13:02:51 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+13:02:51 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+13:02:51 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+13:02:51 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+13:02:51 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+13:07:58 ERROR : Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+13:07:58 ERROR : Unexpected error while launching program.
+com.xilinx.sdk.targetmanager.TMException: Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.isFPGAConfigured(TM.java:372)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.isFpgaConfigured(XilinxAppLaunchConfigurationDelegate.java:378)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:287)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+13:18:04 ERROR : Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+13:18:04 ERROR : Unexpected error while launching program.
+com.xilinx.sdk.targetmanager.TMException: Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.isFPGAConfigured(TM.java:372)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.isFpgaConfigured(XilinxAppLaunchConfigurationDelegate.java:378)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:287)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+13:21:42 ERROR : Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+13:21:42 ERROR : Unexpected error while launching program.
+com.xilinx.sdk.targetmanager.TMException: Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.isFPGAConfigured(TM.java:372)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.isFpgaConfigured(XilinxAppLaunchConfigurationDelegate.java:378)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:287)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+13:33:49 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+21:06:18 INFO  : Processing command line option -hwspec C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper.hdf.
+21:06:22 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+21:06:22 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_1.
+21:06:30 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1437073228275,  Project:1437041077220
+21:06:30 INFO  : The hardware specification for project 'design_1_wrapper_hw_platform_1' is different from C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper.hdf.
+21:06:30 INFO  : Copied contents of C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper.hdf into \design_1_wrapper_hw_platform_1\system.hdf.
+21:06:33 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+21:06:34 INFO  : Clearing existing target manager status.
+21:06:40 INFO  : Workspace synchronized with the new hardware specification file. Cleaning dependent projects...
+21:08:29 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+21:08:29 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+21:08:29 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+21:08:29 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+21:08:29 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+21:08:29 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+21:08:29 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+21:16:36 ERROR : Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+21:16:36 ERROR : Unexpected error while launching program.
+com.xilinx.sdk.targetmanager.TMException: Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.isFPGAConfigured(TM.java:372)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.isFpgaConfigured(XilinxAppLaunchConfigurationDelegate.java:378)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:287)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+21:55:20 ERROR : Unexpected error while fetching XMD's response: 
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.read(Unknown Source)
+	at com.xilinx.sdk.targetmanager.internal.json.XMDJSONProcess$CommandResultsReader.run(XMDJSONProcess.java:332)
+	at java.lang.Thread.run(Unknown Source)
+21:55:20 ERROR : Zero sized response read from XMD. This indicates a communication error or a programming error.
+22:03:05 INFO  : Processing command line option -hwspec C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper.hdf.
+22:03:08 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+22:03:09 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_1.
+22:08:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:08:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:08:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:08:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:08:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:08:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:08:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:11:56 INFO  : Processing command line option -hwspec C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper.hdf.
+22:12:00 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+22:12:00 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_1.
+22:15:32 INFO  : BSP Project P/vita_passthrough_bsp has been successfully migrated.
+22:16:30 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:16:30 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:16:30 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:16:30 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:16:30 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:16:30 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:16:30 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:17:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:17:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:17:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:17:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:17:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:18:18 INFO  : Successfully generated C:\Users\Teo\Desktop\project_1\project_1.sdk\vita_passthrough_app\src\lscript.ld.
+22:18:18 INFO  : Applying linker script to all configurations of project vita_passthrough_app.
+22:18:18 INFO  : Setting rebuild state to true for all configurations of project vita_passthrough_app.
+22:21:58 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:21:58 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:21:58 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:21:58 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:21:58 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:21:58 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:21:58 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:21:58 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:02 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:07 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:07 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:07 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:07 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:11 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:11 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:11 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:11 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:11 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:11 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:11 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:11 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:22:11 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:23:00 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:23:00 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:23:00 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:23:00 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:34:01 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:34:01 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:34:01 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:34:01 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:34:01 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:34:01 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:34:01 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:34:01 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:34:06 INFO  : BSP Project P/descriptorip_bsp has been successfully migrated.
+22:34:06 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:34:06 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:34:06 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:34:06 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:34:06 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:34:06 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:34:06 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:34:06 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:35:03 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:35:03 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:35:03 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:35:03 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:35:13 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:35:13 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:35:13 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:35:13 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:35:13 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:35:13 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:35:13 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:35:13 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\USER\project_1\project_1.sdk\Test_bsp\system.mss
+22:39:08 ERROR : SDK has detected that project design_1_wrapper_hw_platform_0 has been deleted (or renamed).
+This project was referenced by a BSP project, which will now fail to compile properly.
+
+We recommend that you create a new BSP project pointing to a valid hardware project.
+22:39:20 INFO  : Project vita_passthrough_bsp was a BSP project. Please update references.
+22:39:20 ERROR : SDK has detected that project vita_passthrough_bsp has been deleted (or renamed).
+If this project was a BSP referenced by other C/C++ applications, then those applications will fail to build now. Please right click on those applications and click 'Change Referenced BSP' to update those projects' BSP references.
+12:29:28 INFO  : Processing command line option -hwspec C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper.hdf.
+12:29:31 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+12:29:31 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_1.
+12:33:09 ERROR : FPGA Configuration failed.Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not powered-on
+
+12:33:48 ERROR : FPGA Configuration failed.Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+12:34:12 ERROR : FPGA Configuration failed.Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+12:35:01 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_1/design_1_wrapper.bit"
+12:37:32 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_1/design_1_wrapper.bit"
+12:40:38 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_1/design_1_wrapper.bit"
+12:41:23 INFO  : ps7_init is completed.
+12:41:23 INFO  : ps7_post_config is completed.
+12:41:24 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:41:54 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:42:51 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_1/design_1_wrapper.bit"
+12:43:15 INFO  : ps7_init is completed.
+12:43:16 INFO  : ps7_post_config is completed.
+12:43:16 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:43:31 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:50:46 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_1/design_1_wrapper.bit"
+12:51:09 INFO  : ps7_init is completed.
+12:51:09 INFO  : ps7_post_config is completed.
+12:51:09 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:55:45 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_1/design_1_wrapper.bit"
+12:56:17 INFO  : ps7_init is completed.
+12:56:17 INFO  : ps7_post_config is completed.
+12:56:17 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:56:47 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:59:02 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_1/design_1_wrapper.bit"
+12:59:12 INFO  : ps7_init is completed.
+12:59:12 INFO  : ps7_post_config is completed.
+12:59:12 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:59:19 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:02:47 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_1/design_1_wrapper.bit"
+13:02:57 INFO  : ps7_init is completed.
+13:02:57 INFO  : ps7_post_config is completed.
+13:02:57 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:03:17 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:09:09 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_1/design_1_wrapper.bit"
+13:09:18 INFO  : ps7_init is completed.
+13:09:18 INFO  : ps7_post_config is completed.
+13:09:19 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:09:31 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:13:14 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_1/design_1_wrapper.bit"
+13:13:23 INFO  : ps7_init is completed.
+13:13:23 INFO  : ps7_post_config is completed.
+13:13:23 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:14:29 INFO  : FPGA configured successfully with bitstream "C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper_hw_platform_1/design_1_wrapper.bit"
+13:14:38 INFO  : ps7_init is completed.
+13:14:38 INFO  : ps7_post_config is completed.
+13:14:38 INFO  : Processor reset is completed for ps7_cortexa9_0
+00:31:00 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1437171601676,  Project:1437073228275
+00:31:00 INFO  : Project design_1_wrapper_hw_platform_1's source hardware specification located at C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper.hdf is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated.
+00:32:12 INFO  : Copied contents of C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper.hdf into \design_1_wrapper_hw_platform_1\system.hdf.
+00:32:16 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+00:32:18 INFO  : 
+00:32:19 INFO  : Updating hardware inferred compiler options for Test.
+00:32:19 INFO  : Clearing existing target manager status.
+00:32:34 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+00:35:29 INFO  : Processing command line option -hwspec C:/Users/Teo/Desktop/project_1/project_1.sdk/design_1_wrapper.hdf.
+00:35:31 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+00:35:31 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_1.
+00:39:39 INFO  : Refreshed build settings on project distance
+13:06:30 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+13:06:36 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+13:08:59 ERROR : Error occurred while creating hardware platform design_1_wrapper_hw_platform_0 from sysdef
+org.eclipse.core.internal.resources.ResourceException: Resource '/design_1_wrapper_hw_platform_0/system.hdf' already exists.
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:320)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:307)
+	at org.eclipse.core.internal.resources.File.create(File.java:111)
+	at com.xilinx.sdk.hw.internal.HwProjectCreator.createHwProjectFromZip(HwProjectCreator.java:101)
+	at com.xilinx.sdk.hw.HwProject.internalCreate(HwProject.java:175)
+	at com.xilinx.sdk.hw.HwProject.makeNewHardwareProject(HwProject.java:126)
+	at com.xilinx.sdk.hw.HwProject.makeNewHardwareProject(HwProject.java:113)
+	at com.xilinx.sdk.hw.HwProject.makeNewHardwareProject(HwProject.java:88)
+	at com.xilinx.sdk.startup.InitSDK.processHwSpecArgumentTask(InitSDK.java:414)
+	at com.xilinx.sdk.startup.InitSDK.access$8(InitSDK.java:396)
+	at com.xilinx.sdk.startup.InitSDK$9.run(InitSDK.java:347)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+13:09:00 ERROR : Unable to create Hardware Specification Project with specification file: C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf
+13:09:29 ERROR :  [Hsi 55-1594] Core distip of version 1.0 not found in repositories
+13:09:29 ERROR :  [Hsi 55-1594] Core distip of version 1.0 not found in repositories
+ [Hsi 55-1594] Core distip of version 1.0 not found in repositories
+ [Hsi 55-1594] Core distip of version 1.0 not found in repositories
+ [Hsi 55-1430] Driver Name is empty
+13:09:29 ERROR :  [Hsi 55-1594] Core distip of version 1.0 not found in repositories
+ [Hsi 55-1594] Core distip of version 1.0 not found in repositories
+ [Hsi 55-1546] Processor Instance  doesn't exist in Xml/HwDb
+13:26:55 ERROR : FPGA Configuration failed.Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+13:27:41 ERROR :  [Hsi 55-1594] Core distip of version 1.0 not found in repositories
+13:27:41 ERROR :  [Hsi 55-1594] Core distip of version 1.0 not found in repositories
+ [Hsi 55-1594] Core distip of version 1.0 not found in repositories
+ [Hsi 55-1594] Core distip of version 1.0 not found in repositories
+ [Hsi 55-1464] Hardware instance  not found in the design
+13:30:03 ERROR : FPGA Configuration failed.Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+19:38:39 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+19:38:45 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+19:44:46 ERROR : SDK has detected that project design_1_wrapper_hw_platform_1 has been deleted (or renamed).
+This project was referenced by a BSP project, which will now fail to compile properly.
+
+We recommend that you create a new BSP project pointing to a valid hardware project.
+19:45:14 INFO  : Project descriptorip_bsp was a BSP project. Please update references.
+19:45:14 ERROR : SDK has detected that project descriptorip_bsp has been deleted (or renamed).
+If this project was a BSP referenced by other C/C++ applications, then those applications will fail to build now. Please right click on those applications and click 'Change Referenced BSP' to update those projects' BSP references.
+19:51:52 INFO  : No changes in MSS file content so not generating sources.
+19:58:59 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+19:59:02 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+19:59:02 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_2.
+14:02:30 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+14:02:34 WARN  : Unable to obtain port 2450 for use by XSDB Server, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+14:02:35 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2457
+14:02:35 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_2.
+14:29:50 INFO  : Successfully generated C:\Users\INTEL\Desktop\KNN_code\project_1\project_1.sdk\new_dist\src\lscript.ld.
+14:29:50 INFO  : Applying linker script to all configurations of project new_dist.
+14:29:50 INFO  : Setting rebuild state to true for all configurations of project new_dist.
+15:40:04 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+15:40:09 WARN  : Unable to obtain port 2450 for use by XSDB Server, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+15:40:10 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2457
+15:40:11 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_2.
+15:51:37 INFO  : Successfully generated C:\Users\INTEL\Desktop\KNN_code\project_1\project_1.sdk\new_dist\src\lscript.ld.
+15:51:37 INFO  : Applying linker script to all configurations of project new_dist.
+15:51:37 INFO  : Setting rebuild state to true for all configurations of project new_dist.
+15:53:52 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+15:53:53 WARN  : Unable to obtain port 2450 for use by XSDB Server, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+15:53:54 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2457
+15:57:07 INFO  : Refreshed build settings on project knndist
+16:04:31 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+16:06:04 INFO  : ps7_init is completed.
+16:06:04 INFO  : ps7_post_config is completed.
+16:06:04 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:06:45 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:07:08 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:12:51 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+16:13:03 INFO  : ps7_init is completed.
+16:13:03 INFO  : ps7_post_config is completed.
+16:13:04 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:14:04 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+16:14:13 INFO  : ps7_init is completed.
+16:14:14 INFO  : ps7_post_config is completed.
+16:14:14 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:15:44 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+16:15:51 INFO  : ps7_init is completed.
+16:15:51 INFO  : ps7_post_config is completed.
+16:15:51 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:42:09 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+16:42:17 INFO  : ps7_init is completed.
+16:42:17 INFO  : ps7_post_config is completed.
+16:42:18 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:03:06 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:03:16 INFO  : ps7_init is completed.
+17:03:16 INFO  : ps7_post_config is completed.
+17:03:16 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:33:36 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:33:43 INFO  : ps7_init is completed.
+17:33:43 INFO  : ps7_post_config is completed.
+17:33:44 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:34:38 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+22:03:40 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+22:03:45 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+22:03:45 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+22:05:12 ERROR :  License Feature SDK is not available.
+10:06:16 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+10:06:24 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+10:06:24 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+10:12:11 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+10:12:58 INFO  : ps7_init is completed.
+10:12:58 INFO  : ps7_post_config is completed.
+10:12:58 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:12:59 ERROR : No such port: COM4
+10:14:10 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:14:10 ERROR : Unexpected error while opening JTAG UART: 
+java.lang.RuntimeException: Error while opening JTAG UART server: MDM Uart NOT Present in the System
+Could not detect MDM peripheral on hardware. Please check:
+    1. If FPGA is configured correctly
+    2. MDM Core is instantiated in the design
+    3. If the correct FPGA is referred, in case of multiple FPGAs
+    4. If the correct MDM is referred, in case of a multiple MDM system
+    
+
+	at com.xilinx.sdk.targetmanager.internal.TM.startJTAGUARTServer(TM.java:931)
+	at com.xilinx.sdk.debug.core.internal.comm.JTAGUARTStreamsProxy.<init>(JTAGUARTStreamsProxy.java:32)
+	at com.xilinx.sdk.debug.core.internal.RemoteProcess.createStreamsProxy(RemoteProcess.java:164)
+	at com.xilinx.sdk.debug.core.internal.RemoteProcess.<init>(RemoteProcess.java:65)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(AppRunner.java:91)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:605)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:293)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+10:15:56 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+10:18:32 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+10:18:58 INFO  : ps7_init is completed.
+10:18:58 INFO  : ps7_post_config is completed.
+10:18:58 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:18:59 ERROR : Unexpected error while opening JTAG UART: 
+java.lang.RuntimeException: Error while opening JTAG UART server: MDM Uart NOT Present in the System
+Could not detect MDM peripheral on hardware. Please check:
+    1. If FPGA is configured correctly
+    2. MDM Core is instantiated in the design
+    3. If the correct FPGA is referred, in case of multiple FPGAs
+    4. If the correct MDM is referred, in case of a multiple MDM system
+    
+
+	at com.xilinx.sdk.targetmanager.internal.TM.startJTAGUARTServer(TM.java:931)
+	at com.xilinx.sdk.debug.core.internal.comm.JTAGUARTStreamsProxy.<init>(JTAGUARTStreamsProxy.java:32)
+	at com.xilinx.sdk.debug.core.internal.RemoteProcess.createStreamsProxy(RemoteProcess.java:164)
+	at com.xilinx.sdk.debug.core.internal.RemoteProcess.<init>(RemoteProcess.java:65)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(AppRunner.java:91)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:605)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:293)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+10:19:21 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:32:20 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:33:36 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+12:15:53 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+12:16:07 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+12:16:08 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+12:35:37 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+12:37:25 ERROR : Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+12:37:25 ERROR : Unexpected error while launching program.
+com.xilinx.sdk.targetmanager.TMException: Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.isFPGAConfigured(TM.java:372)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.isFpgaConfigured(XilinxAppLaunchConfigurationDelegate.java:378)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:287)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+12:37:38 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+12:37:48 INFO  : ps7_init is completed.
+12:37:48 INFO  : ps7_post_config is completed.
+12:37:48 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:38:30 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:43:31 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+12:43:43 INFO  : ps7_init is completed.
+12:43:43 INFO  : ps7_post_config is completed.
+12:43:43 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:54:44 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+12:55:27 INFO  : ps7_init is completed.
+12:55:27 INFO  : ps7_post_config is completed.
+12:55:27 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:57:16 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+12:57:16 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+12:58:20 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+12:58:20 ERROR : Timeout occured while waiting to get reply for command "xload hw C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/system.hdf"
+12:58:49 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+12:59:08 INFO  : ps7_init is completed.
+12:59:09 INFO  : ps7_post_config is completed.
+12:59:09 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:05:44 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+13:05:44 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+13:05:53 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+13:06:11 INFO  : ps7_init is completed.
+13:06:12 INFO  : ps7_post_config is completed.
+13:06:12 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:09:28 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+13:09:28 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+13:09:36 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+13:09:48 INFO  : ps7_init is completed.
+13:09:48 INFO  : ps7_post_config is completed.
+13:09:49 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:19:57 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+13:19:57 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+13:20:08 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+13:20:27 INFO  : ps7_init is completed.
+13:20:27 INFO  : ps7_post_config is completed.
+13:20:27 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:22:12 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+13:22:12 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+13:23:27 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+13:23:39 INFO  : ps7_init is completed.
+13:23:40 INFO  : ps7_post_config is completed.
+13:23:40 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:23:40 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Failed to download ELF file
+
+Unknown Error Occured
+    : C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/knndist/Debug/knndist.elf
+
+	at com.xilinx.sdk.targetmanager.internal.TM.downloadELF(TM.java:666)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(AppRunner.java:129)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:605)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:293)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+13:24:58 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+13:25:38 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+13:27:27 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+13:27:30 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+13:27:30 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+13:28:11 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+13:29:40 INFO  : ps7_init is completed.
+13:29:40 INFO  : ps7_post_config is completed.
+13:29:41 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:29:41 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Failed to download ELF file
+
+Unknown Error Occured
+    : C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/knndist/Debug/knndist.elf
+
+	at com.xilinx.sdk.targetmanager.internal.TM.downloadELF(TM.java:666)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(AppRunner.java:129)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:605)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:293)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+13:33:59 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+13:35:37 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+13:35:52 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+13:35:55 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+13:35:55 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+13:36:27 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+13:36:46 INFO  : ps7_init is completed.
+13:36:46 INFO  : ps7_post_config is completed.
+13:36:46 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:37:16 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+13:37:16 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+13:38:08 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+13:38:19 INFO  : ps7_init is completed.
+13:38:19 INFO  : ps7_post_config is completed.
+13:38:19 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:54:11 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+13:54:11 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+13:54:25 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+13:54:36 INFO  : ps7_init is completed.
+13:54:36 INFO  : ps7_post_config is completed.
+13:54:36 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:56:06 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:57:03 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+13:57:15 INFO  : ps7_init is completed.
+13:57:15 INFO  : ps7_post_config is completed.
+13:57:15 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:57:35 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+13:57:38 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:13:46 ERROR : FPGA Configuration failed.Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+15:14:03 ERROR : FPGA Configuration failed.Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+15:14:44 ERROR : FPGA Configuration failed.Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+15:15:00 ERROR : FPGA Configuration failed.Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+15:15:13 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+15:16:09 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+15:16:17 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+15:16:18 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+15:17:53 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+15:18:21 INFO  : ps7_init is completed.
+15:18:21 INFO  : ps7_post_config is completed.
+15:18:21 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:38:49 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+15:38:49 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+15:39:54 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+15:39:54 ERROR : Timeout occured while waiting to get reply for command "xload hw C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/system.hdf"
+15:41:12 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+15:41:12 ERROR : Timeout occured while waiting to get reply for command "xfpga -cable type xilinx_tcf url TCP:127.0.0.1:3121 -f C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit -report_progress"
+15:41:12 ERROR : FPGA Configuration failed.
+15:43:32 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+15:43:44 INFO  : ps7_init is completed.
+15:43:44 INFO  : ps7_post_config is completed.
+15:43:44 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:53:23 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+15:53:32 INFO  : ps7_init is completed.
+15:53:32 INFO  : ps7_post_config is completed.
+15:53:32 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:56:00 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+15:56:19 INFO  : ps7_init is completed.
+15:56:20 INFO  : ps7_post_config is completed.
+15:56:20 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:56:36 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+15:56:40 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:06:31 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+16:06:45 INFO  : ps7_init is completed.
+16:06:45 INFO  : ps7_post_config is completed.
+16:06:45 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:06:59 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:07:02 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:10:16 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+16:10:35 INFO  : ps7_init is completed.
+16:10:35 INFO  : ps7_post_config is completed.
+16:10:36 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:10:59 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:11:02 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:13:16 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+16:13:24 INFO  : ps7_init is completed.
+16:13:24 INFO  : ps7_post_config is completed.
+16:13:24 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:15:51 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+16:16:05 INFO  : ps7_init is completed.
+16:16:05 INFO  : ps7_post_config is completed.
+16:16:05 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:16:27 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:16:31 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:22:35 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+16:22:54 INFO  : ps7_init is completed.
+16:22:54 INFO  : ps7_post_config is completed.
+16:22:55 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:28:12 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+16:31:02 INFO  : ps7_init is completed.
+16:31:02 INFO  : ps7_post_config is completed.
+16:31:02 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:36:44 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+16:36:52 INFO  : ps7_init is completed.
+16:36:52 INFO  : ps7_post_config is completed.
+16:36:53 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:37:04 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:37:07 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:06:26 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+17:06:26 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+17:09:42 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:09:54 INFO  : ps7_init is completed.
+17:09:54 INFO  : ps7_post_config is completed.
+17:09:54 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:10:09 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:10:11 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:13:27 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:13:35 INFO  : ps7_init is completed.
+17:13:35 INFO  : ps7_post_config is completed.
+17:13:35 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:13:43 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:13:46 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:17:34 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:17:42 INFO  : ps7_init is completed.
+17:17:42 INFO  : ps7_post_config is completed.
+17:17:43 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:20:12 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:20:21 INFO  : ps7_init is completed.
+17:20:21 INFO  : ps7_post_config is completed.
+17:20:22 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:27:25 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:27:34 INFO  : ps7_init is completed.
+17:27:34 INFO  : ps7_post_config is completed.
+17:27:34 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:27:46 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:27:48 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:36:27 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+17:36:27 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+17:39:54 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:40:01 INFO  : ps7_init is completed.
+17:40:01 INFO  : ps7_post_config is completed.
+17:40:01 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:41:05 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:41:12 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:43:19 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:43:30 INFO  : ps7_init is completed.
+17:43:30 INFO  : ps7_post_config is completed.
+17:43:30 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:55:32 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:55:45 INFO  : ps7_init is completed.
+17:55:45 INFO  : ps7_post_config is completed.
+17:55:45 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:55:57 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:56:00 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:58:03 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:58:11 INFO  : ps7_init is completed.
+17:58:11 INFO  : ps7_post_config is completed.
+17:58:11 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:05:42 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:05:51 INFO  : ps7_init is completed.
+18:05:51 INFO  : ps7_post_config is completed.
+18:05:52 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:10:06 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:10:15 INFO  : ps7_init is completed.
+18:10:16 INFO  : ps7_post_config is completed.
+18:10:16 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:11:03 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:11:26 INFO  : ps7_init is completed.
+18:11:26 INFO  : ps7_post_config is completed.
+18:11:27 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:12:32 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:12:41 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+18:12:41 ERROR : Timeout occured while waiting to get reply for command "xstop 64"
+18:13:29 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:13:39 INFO  : ps7_init is completed.
+18:13:39 INFO  : ps7_post_config is completed.
+18:13:39 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:45:31 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:45:45 INFO  : ps7_init is completed.
+18:45:45 INFO  : ps7_post_config is completed.
+18:45:46 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:50:20 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:50:29 INFO  : ps7_init is completed.
+18:50:29 INFO  : ps7_post_config is completed.
+18:50:30 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:56:59 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:57:09 INFO  : ps7_init is completed.
+18:57:09 INFO  : ps7_post_config is completed.
+18:57:09 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:58:23 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+18:58:34 INFO  : ps7_init is completed.
+18:58:34 INFO  : ps7_post_config is completed.
+18:58:34 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:01:34 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+19:01:44 INFO  : ps7_init is completed.
+19:01:44 INFO  : ps7_post_config is completed.
+19:01:44 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:03:29 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+19:03:36 INFO  : ps7_init is completed.
+19:03:37 INFO  : ps7_post_config is completed.
+19:03:37 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:09:20 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+14:37:00 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+14:37:06 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+14:37:07 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+15:29:48 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+15:29:48 ERROR : Timeout occured while waiting to get reply for command "xfpga -cable type xilinx_tcf url TCP:127.0.0.1:3121 -f C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit -report_progress"
+15:29:48 ERROR : FPGA Configuration failed.
+15:33:25 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+15:34:13 INFO  : ps7_init is completed.
+15:34:13 INFO  : ps7_post_config is completed.
+15:34:13 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:34:14 ERROR : No such port: COM4
+15:34:39 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:36:45 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+15:36:53 INFO  : ps7_init is completed.
+15:36:53 INFO  : ps7_post_config is completed.
+15:36:53 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:37:07 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:38:28 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+15:38:35 INFO  : ps7_init is completed.
+15:38:35 INFO  : ps7_post_config is completed.
+15:38:35 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:15:00 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:15:10 INFO  : ps7_init is completed.
+17:15:10 INFO  : ps7_post_config is completed.
+17:15:11 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:46:16 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:51:43 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+17:51:49 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+17:51:49 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+17:58:04 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+17:58:24 INFO  : ps7_init is completed.
+17:58:24 INFO  : ps7_post_config is completed.
+17:58:25 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:58:25 ERROR : No such port: COM8
+18:05:11 ERROR : Unexpected error while fetching XMD's response: 
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.read(Unknown Source)
+	at com.xilinx.sdk.targetmanager.internal.json.XMDJSONProcess$CommandResultsReader.run(XMDJSONProcess.java:332)
+	at java.lang.Thread.run(Unknown Source)
+18:05:11 ERROR : Zero sized response read from XMD. This indicates a communication error or a programming error.
+18:32:30 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+18:32:53 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+18:32:54 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+19:11:39 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+19:11:39 ERROR : Timeout occured while waiting to get reply for command "xfpga -cable type xilinx_tcf url TCP:127.0.0.1:3121 -f C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit -report_progress"
+19:11:39 ERROR : FPGA Configuration failed.
+19:13:23 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+19:13:23 ERROR : Timeout occured while waiting to get reply for command "xfpga -cable type xilinx_tcf url TCP:127.0.0.1:3121 -f C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit -report_progress"
+19:13:23 ERROR : FPGA Configuration failed.
+19:15:04 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+19:15:04 ERROR : Timeout occured while waiting to get reply for command "xfpga -cable type xilinx_tcf url TCP:127.0.0.1:3121 -f C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit -report_progress"
+19:15:04 ERROR : FPGA Configuration failed.
+19:16:24 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+19:16:24 ERROR : Timeout occured while waiting to get reply for command "xfpga -cable type xilinx_tcf url TCP:127.0.0.1:3121 -f C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit -report_progress"
+19:16:24 ERROR : FPGA Configuration failed.
+19:17:45 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+19:17:47 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+19:17:48 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+19:20:15 WARN  : Unable to obtain port 2350 for use by XMD, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+19:21:19 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+19:21:19 ERROR : Timeout occured while waiting to get reply for command "xfpga -cable type xilinx_tcf url TCP:127.0.0.1:3121 -f C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit -report_progress"
+19:21:19 ERROR : FPGA Configuration failed.
+19:26:48 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+19:26:48 ERROR : Timeout occured while waiting to get reply for command "xfpga -cable type xilinx_tcf url TCP:127.0.0.1:3121 -f C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit -report_progress"
+19:26:48 ERROR : FPGA Configuration failed.
+19:29:53 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+19:29:53 ERROR : Timeout occured while waiting to get reply for command "xfpga -cable type xilinx_tcf url TCP:127.0.0.1:3121 -f C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit -report_progress"
+19:29:53 ERROR : FPGA Configuration failed.
+19:32:24 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+19:32:24 ERROR : Timeout occured while waiting to get reply for command "xfpga -cable type xilinx_tcf url TCP:127.0.0.1:3121 -f C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit -report_progress"
+19:32:24 ERROR : FPGA Configuration failed.
+19:34:47 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+19:34:47 ERROR : Timeout occured while waiting to get reply for command "xfpga -cable type xilinx_tcf url TCP:127.0.0.1:3121 -f C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit -report_progress"
+19:34:47 ERROR : FPGA Configuration failed.
+19:50:30 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+19:50:36 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+19:50:36 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+20:28:57 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+20:29:03 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+20:29:03 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+14:46:05 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+14:46:12 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+14:46:12 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+15:06:17 INFO  : FPGA configured successfully with bitstream "C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit"
+15:06:49 INFO  : ps7_init is completed.
+15:06:49 INFO  : ps7_post_config is completed.
+15:06:49 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:07:29 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:10:45 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+15:10:45 ERROR : Timeout occured while waiting to get reply for command "xfpga -cable type xilinx_tcf url TCP:127.0.0.1:3121 -f C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit -report_progress"
+15:10:45 ERROR : FPGA Configuration failed.
+15:12:52 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+15:12:52 ERROR : Timeout occured while waiting to get reply for command "xfpga -cable type xilinx_tcf url TCP:127.0.0.1:3121 -f C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit -report_progress"
+15:12:52 ERROR : FPGA Configuration failed.
+15:15:08 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+15:15:08 ERROR : Timeout occured while waiting to get reply for command "xfpga -cable type xilinx_tcf url TCP:127.0.0.1:3121 -f C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit -report_progress"
+15:15:08 ERROR : FPGA Configuration failed.
+15:21:57 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+15:21:59 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+15:21:59 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+15:25:13 WARN  : Unable to obtain port 2350 for use by XMD, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+15:26:17 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+15:26:17 ERROR : Timeout occured while waiting to get reply for command "xfpga -cable type xilinx_tcf url TCP:127.0.0.1:3121 -f C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit -report_progress"
+15:26:17 ERROR : FPGA Configuration failed.
+15:31:14 INFO  : Processing command line option -hwspec C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper.hdf.
+15:31:15 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+15:31:16 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+15:39:31 WARN  : Unable to obtain port 2350 for use by XMD, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+15:39:31 WARN  : Unable to obtain port 2357 for use by XMD, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+15:40:34 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+15:40:34 ERROR : Timeout occured while waiting to get reply for command "xfpga -cable type xilinx_tcf url TCP:127.0.0.1:3121 -f C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit -report_progress"
+15:40:34 ERROR : FPGA Configuration failed.
+15:43:31 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+15:43:31 ERROR : Timeout occured while waiting to get reply for command "xfpga -cable type xilinx_tcf url TCP:127.0.0.1:3121 -f C:/Users/INTEL/Desktop/KNN_code/project_1/project_1.sdk/design_1_wrapper_hw_platform_0/design_1_wrapper.bit -report_progress"
+15:43:31 ERROR : FPGA Configuration failed.

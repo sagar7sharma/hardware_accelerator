@@ -1,0 +1,76 @@
+#include "distip.h"
+#include <stdio.h>
+#include <unistd.h>
+#include <stdint.h>
+#include <xbasic_types.h>
+#include "platform.h"
+#include "xparameters.h"  // Zynq parameters
+#include "xgpiops.h"      // Zynq GPIO operations
+#include <math.h>
+#include <time.h>
+#include <stdlib.h>
+#include "platform.h"
+#include "ff.h"   /* Declarations of FatFs API */
+
+FATFS FatFs;    /* FatFs work area needed for each volume */
+FRESULT fr;     /* FatFs function common result code */
+FIL fsrc11,fsrc22;     /* File object needed for source file */
+FIL fdst;     /* File object needed for destination file */
+XGpioPs Gpio;
+
+Xuint32 *baseaddr_p = (Xuint32 *)XPAR_DISTIP_0_S00_AXI_BASEADDR;
+Xuint32 *baseaddr_q = (Xuint32 *) XPAR_DISTIP_0_S00_AXI_BASEADDR + 0x40;
+
+int main (void)
+{
+  int retval;     /* Return value for Gpio functions */
+  init_platform();
+
+  // Lookup GPIO config table
+  XGpioPs_Config * ConfigPtr = XGpioPs_LookupConfig(XPAR_PS7_GPIO_0_DEVICE_ID);
+
+  // Initialize GPIO
+    if ( (retval = XGpioPs_CfgInitialize(&Gpio, ConfigPtr, ConfigPtr->BaseAddr)) != XST_SUCCESS) {
+      printf("Error initializing GPIO fails\n"); return retval;}
+  if ( (retval = XGpioPs_SelfTest(&Gpio)) != XST_SUCCESS) {
+    printf("GPIO Self test fails\n"); return 1; }
+
+  /*
+   *  Write files to SDC using FatFs SPI protocol
+   */
+
+  f_mount(0,&FatFs);    /* Give a work area to the default drive */
+  int i, j, k;
+  int32_t buffer11[8192], buffer22[8192];
+
+  /* Open a file to read and open or create a file to write what was read */
+
+    FILE *file11 = fopen("desc11.txt", "r");
+    FILE *file22 = fopen("desc22.txt", "r");
+
+    for ( i = 0; i < sizeof buffer11; i++ ) {
+		fscanf(file11, "%d", &buffer11[i] );
+      for ( j = 0; j < sizeof buffer22; j++ ) {
+			fscanf(file22, "%d", &buffer22[j] );
+
+    	  *(baseaddr_p+129) = 0x40000000;
+         for (k = 0 ; k < 64; k++) {
+			 *(baseaddr_p+k) = buffer11[k];
+        	 xil_printf("buffer11 = %ld \n", *(baseaddr_p+k));
+        	 *(baseaddr_q+k) = buffer22[k];
+        	 xil_printf("buffer22 = %ld \n", *(baseaddr_q+k));
+         }
+      //   xil_printf("Distance %d \n \r", *(baseaddr_p+128));
+         *(baseaddr_p+129) = 0x80000000;
+
+      }
+    }
+
+    /* Close the files */
+    fclose(file11);
+    fclose(file22);
+
+
+  exit(1);
+
+}

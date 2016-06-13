@@ -1,0 +1,35 @@
+/*
+ * substitute_times.h
+ *
+ *  Created on: 29-Jul-2015
+ *      Author: INTEL
+ */
+
+#ifndef SUBSTITUTE_TIMES_H_
+#define SUBSTITUTE_TIMES_H_
+
+#include <xscugic.h>
+
+///@note the arm-xilinx-eabi library function '_times' itself already declared; we won't do it again
+
+/** Installs a timer interrupt handler and initialize the system timer to generate a timer interrupt every 100 microseconds.
+* The interrupt routine maintains a software divider to generate CLOCKS_PER_SEC frequency.
+* and install a handler to process the interrupt and increment a counter.
+* @note call from your interrupt configuration routine, before you globally enable interrupts.
+* @note enables timer interrupt and also GIC interrupt for timer.
+* @param pInterruptController	reference to interrupt controller
+*/
+void init_substitute_times(XScuGic *pInterruptController);
+
+/** stop the interrupts, kill the timer */
+void kill_substitute_times();
+
+/** elapsed microseconds since boot */
+uint64_t getMicroseconds();
+
+/** elapsed CLOCKS_PER_SEC since boot */
+clock_t getClocks();
+
+
+
+#endif /* SUBSTITUTE_TIMES_H_ */

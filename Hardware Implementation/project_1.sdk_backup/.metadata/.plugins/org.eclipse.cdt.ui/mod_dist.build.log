@@ -1,0 +1,24 @@
+14:08:11 **** Incremental Build of configuration Debug for project mod_dist ****
+make all 
+'Building target: mod_dist.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -L../../mod_dist_bsp/ps7_cortexa9_0/lib -o "mod_dist.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+../../mod_dist_bsp/ps7_cortexa9_0/lib\libxil.a(xil-crt0.o):(.text+0x0): undefined reference to `__sbss_start'
+../../mod_dist_bsp/ps7_cortexa9_0/lib\libxil.a(xil-crt0.o):(.text+0x4): undefined reference to `__sbss_end'
+../../mod_dist_bsp/ps7_cortexa9_0/lib\libxil.a(xil-crt0.o):(.text+0xc): undefined reference to `__bss_end'
+../../mod_dist_bsp/ps7_cortexa9_0/lib\libxil.a(xil-crt0.o):(.text+0x10): undefined reference to `__stack'
+../../mod_dist_bsp/ps7_cortexa9_0/lib\libxil.a(xil_cache.o): In function `Xil_L1DCacheInvalidate':
+C:\Users\INTEL\Desktop\KNN_code\project_1\project_1.sdk\mod_dist_bsp\ps7_cortexa9_0\libsrc\standalone_v4_2\src/xil_cache.c:754: undefined reference to `_stack_end'
+C:\Users\INTEL\Desktop\KNN_code\project_1\project_1.sdk\mod_dist_bsp\ps7_cortexa9_0\libsrc\standalone_v4_2\src/xil_cache.c:754: undefined reference to `_stack_end'
+c:/xilinx/sdk/2014.4/gnu/arm/nt/bin/../lib/gcc/arm-xilinx-eabi/4.8.3/../../../../arm-xilinx-eabi/lib\libc.a(lib_a-timesr.o): In function `_times_r':
+timesr.c:(.text+0x4): undefined reference to `_times'
+../../mod_dist_bsp/ps7_cortexa9_0/lib\libxil.a(_sbrk.o): In function `_sbrk':
+C:\Users\INTEL\Desktop\KNN_code\project_1\project_1.sdk\mod_dist_bsp\ps7_cortexa9_0\libsrc\standalone_v4_2\src/_sbrk.c:49: undefined reference to `_heap_start'
+C:\Users\INTEL\Desktop\KNN_code\project_1\project_1.sdk\mod_dist_bsp\ps7_cortexa9_0\libsrc\standalone_v4_2\src/_sbrk.c:49: undefined reference to `_heap_start'
+C:\Users\INTEL\Desktop\KNN_code\project_1\project_1.sdk\mod_dist_bsp\ps7_cortexa9_0\libsrc\standalone_v4_2\src/_sbrk.c:56: undefined reference to `_heap_end'
+C:\Users\INTEL\Desktop\KNN_code\project_1\project_1.sdk\mod_dist_bsp\ps7_cortexa9_0\libsrc\standalone_v4_2\src/_sbrk.c:56: undefined reference to `_heap_end'
+collect2.exe: error: ld returned 1 exit status
+make: *** [mod_dist.elf] Error 1
+
+14:08:12 Build Finished (took 1s.207ms)
+

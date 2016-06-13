@@ -1,0 +1,156 @@
+#include "distip.h"
+#include <stdio.h>
+#include <unistd.h>
+#include <stdint.h>
+#include <xbasic_types.h>
+#include "platform.h"
+#include "xparameters.h"  // Zynq parameters
+#include "xgpiops.h"      // Zynq GPIO operations
+#include <math.h>
+#include <time.h>
+#include <stdlib.h>
+#include "platform.h"
+#include "ff.h"   /* Declarations of FatFs API */
+//#define ARRAYSIZE(x)  (sizeof(x)/sizeof(*(x)))
+
+FATFS FatFs;    /* FatFs work area needed for each volume */
+FRESULT fr;     /* FatFs function common result code */
+FIL fsrc11,fsrc22;     /* File object needed for source file */
+FIL fdst;     /* File object needed for destination file */
+XGpioPs Gpio;
+
+Xuint32 *baseaddr_p = (Xuint32 *)XPAR_DISTIP_0_S00_AXI_BASEADDR;
+//Xuint32 *baseaddr_q = (Xuint32 *)(0x40 + 0x43C00000) ;
+Xuint32 *baseaddr_q = (Xuint32 *) XPAR_DISTIP_0_S00_AXI_BASEADDR + 0x40;
+
+int main (void)
+{
+//  UINT br, bw;    /* File read/write count */
+  int retval;     /* Return value for Gpio functions */
+//  BYTE line[4096];    /* Line buffer */
+//  char lines[2048]; //line buffer for fgets
+
+  init_platform();
+
+  // Lookup GPIO config table
+  XGpioPs_Config * ConfigPtr = XGpioPs_LookupConfig(XPAR_PS7_GPIO_0_DEVICE_ID);
+
+  // Initialize GPIO
+    if ( (retval = XGpioPs_CfgInitialize(&Gpio, ConfigPtr, ConfigPtr->BaseAddr)) != XST_SUCCESS) {
+      printf("Error initializing GPIO fails\n"); return retval;}
+  if ( (retval = XGpioPs_SelfTest(&Gpio)) != XST_SUCCESS) {
+    printf("GPIO Self test fails\n"); return 1; }
+
+  /*
+   *  Write files to SDC using FatFs SPI protocol
+   */
+
+  f_mount(0,&FatFs);    /* Give a work area to the default drive */
+  int i, j, k;
+  /* Open a file to read and open or create a file to write what was read */
+  if ((f_open(&fsrc11, "desc11.txt", FA_READ | FA_OPEN_EXISTING ) == FR_OK) &&
+    (f_open(&fsrc22, "desc22.txt", FA_READ | FA_OPEN_EXISTING ) == FR_OK) &&
+      (f_open(&fdst, "dist.txt", FA_WRITE | FA_CREATE_ALWAYS) == FR_OK))
+  {
+	  //------------------------------------------
+	//  FILE* myfile = fopen("test.txt", "r");
+	  FILE *file11 = fopen("desc11.txt", "r");
+	//  FILE *file22 = fopen("desc22.txt", "r");
+	  int ch, num1 = 0;
+
+	  do
+	  {
+	      ch = fgetc(file11);
+	      if(ch == '\n')
+	    	  num1++;
+	  } while (ch != EOF);
+
+	  // last line doesn't end with a new line!
+	  // but there has to be a line at least before the last line
+	  if(ch != '\n' && num1 != 0)
+		  num1++;
+
+	  fclose(file11);
+
+	  xil_printf("number of lines in desc11.txt = %ld", num1);
+	//---------------------------
+//	int num1 = countlines("desc11.txt");
+//	int num2 = countlines("desc22.txt");
+//	xil_printf("num1 = %d\n", num1);
+//	xil_printf("num2 = %d\n", num2);
+
+/*	char buffer11[7000], buffer22[7000], *ptr11, *ptr22;
+	int arr_desc11[num1], arr_desc22[num2];
+	int counter1 = 0;
+	int counter2 = 0;
+
+ //   FILE *file11 = fopen("desc11.txt", "r");
+ //   FILE *file22 = fopen("desc22.txt", "r");
+
+	fgets(buffer11 , sizeof buffer11 , file11);
+	fgets(buffer22 , sizeof buffer22 , file22);
+	ptr11 = strtok(buffer11 , ",");
+	ptr22 = strtok(buffer22 , ",");
+	xil_printf("buffer11 = %s\n", buffer11[0]);
+	xil_printf("buffer22 = %s\n", buffer22[0]);
+		while(ptr11)
+		{
+			   arr_desc11[counter1++] = strtol(ptr11 , NULL , 10);
+			  // ++numberRead;
+			   ptr11 = strtok(NULL , ",");
+			   xil_printf("arr_desc11[%d] = %d\n", counter1, arr_desc11[counter1]);
+		}
+
+		while(ptr22)
+		{
+			   arr_desc22[counter2++] = strtol(ptr22 , NULL , 10);
+			  // ++numberRead;
+			   ptr22 = strtok(NULL , ",");
+			   xil_printf("arr_desc22[%d] = %d\n", counter2, arr_desc22[counter2]);
+		} */
+
+/*	for ( i = 0; i < num1; i+=64 ) {
+		for( j = 0; j < num2; j+=64 ) {
+				*(baseaddr_p+129) = 0x40000000;
+				 for (k = 0; k < 64; k++)
+				 {
+					*(baseaddr_p+k) = (int32_t)arr_desc11[i+k];
+					*(baseaddr_q+k) = (int32_t)arr_desc22[j+k];
+				 }
+				xil_printf("(Distance) at %d %d : %ld \n \r",i,j, *(baseaddr_p+128));
+				*(baseaddr_p+129) = 0x80000000;
+		}
+	} */
+
+    /* Close the files */
+    f_close(&fsrc11);
+    f_close(&fsrc22);
+    f_close(&fdst);
+  }
+
+  exit(1);
+
+}
+
+/*int countlines(char *filename)
+{
+  // count the number of lines in the file called filename
+  FILE *fp = fopen(filename,"r");
+  int ch=0;
+  int lines=0;
+
+  if (fp == NULL);
+  return 0;
+
+  lines++;
+  while(!feof(fp))
+{
+  ch = fgetc(fp);
+  if(ch == '\n')
+  {
+    lines++;
+  }
+}
+  fclose(fp);
+  return lines*64;
+}*/

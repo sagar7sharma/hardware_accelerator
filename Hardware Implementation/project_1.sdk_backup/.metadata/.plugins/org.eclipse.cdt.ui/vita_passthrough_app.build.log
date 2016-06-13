@@ -1,0 +1,26 @@
+22:38:09 **** Build of configuration Debug for project vita_passthrough_app ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../vita_passthrough_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.d" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -I../../vita_passthrough_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.d" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building target: vita_passthrough_app.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../vita_passthrough_bsp/ps7_cortexa9_0/lib -o "vita_passthrough_app.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-group
+'Finished building target: vita_passthrough_app.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size vita_passthrough_app.elf  |tee "vita_passthrough_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22920	   1152	   8228	  32300	   7e2c	vita_passthrough_app.elf
+'Finished building: vita_passthrough_app.elf.size'
+' '
+
+22:38:11 Build Finished (took 2s.79ms)
+
